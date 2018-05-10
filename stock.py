@@ -6,7 +6,7 @@ import matplotlib.animation as anim
 # index 250 is the 1st January 2017, i.e first trading day of 2017
 # each year has 251 trading days
 
-# close1, open1, high1, volume1 files have data for XYZ company
+# close1, open1, high1, volume1 files have data for Twitter
 # close, open, high, low, volume files have data for Facebook
 
 # functions which have showplot parameter, if showplot = 'yes', they will display plots, else, they will return decisions only without displaying plots
